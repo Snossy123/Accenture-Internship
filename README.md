@@ -1,5 +1,5 @@
 # the Accenture North America Data Analytics Virtual Experience
-## I work in this Internship as a data analyst and work on a talented team.
+## `I work in this Internship as a data analyst and work on a talented team.`
 - 	Project Understanding
 Quickly get up to speed with the business problem being addressed, project requirements and team alignment.
 Practical skills you will gain from working on this task:
