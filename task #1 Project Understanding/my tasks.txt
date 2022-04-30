@@ -1,0 +1,18 @@
+1. Client background
+
+Before attempting to complete this task, you should take your time to fully understand the client brief. 
+
+2. Internal background
+
+After this, you should read through the organization map and each individual's role and responsibilities. This will give you a holistic understanding of the Accenture team working on this project and each individuals’ role and responsibilities. 
+
+3. Project understanding
+
+Once you’ve read these resources, make sure you have a confident understanding of the following three questions:
+
+What is the business problem that Accenture is trying to tackle for this client?
+Based on this business problem, what are the requirements that Accenture is expected to deliver?
+Finally, based on these requirements, what tasks are most likely to be relevant to you as the data analyst?
+After reading the first two documents, you should be able to construct an answer to the 3 above questions.
+
+You do not need to submit a written answer to these questions as your knowledge will be tested by multiple-choice questions. 
